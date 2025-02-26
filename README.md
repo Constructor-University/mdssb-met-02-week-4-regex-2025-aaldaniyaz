@@ -67,7 +67,12 @@ Example: 0421 / 200 40, +49 421 200 40
  
 `It's obvious, but just to spell it out: For this question, you should think about different ways of writing down a phone number. It's not about trying to come up with as many phone number as you can.`
 
-**Answer:** Replace this text with your answer.
+**Answer:** 
++49 151 12345678 
+0049 151 12345678 
+0421 1234567 
++49 30 1234567 
+0200 98765432 
 
 
 #### Question 4b
