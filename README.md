@@ -39,7 +39,7 @@ Find a regular expression that will match this kind of student number.
 `The numbers are (obviously) different for different students, so finding a regular expression that only matches this one student number is not enough. 
 Unless the way your regular expression works is obvious, please explain how it works.`
 
-**Answer:** Replace this text with your answer.
+**Answer:** G[0-9]{8}$
 
 #### Question 2
 
