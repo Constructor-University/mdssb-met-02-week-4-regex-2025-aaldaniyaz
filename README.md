@@ -81,4 +81,4 @@ Find a regular expression that matches all of the different phone number formats
  
 `Unless the way your regular expression works is obvious, please explain how it works.`
 
-**Answer:** Replace this text with your answer.
+**Answer:** /^(?:\+49|0049|0\d{2,4})\s\d{2,5}\s\d{4,8}$/g
