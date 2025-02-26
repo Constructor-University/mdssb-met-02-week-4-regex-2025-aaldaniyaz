@@ -57,7 +57,7 @@ Find a regular expression that will match a student number, based on the additio
  
 `Unless the way your regular expression works is obvious, please explain how it works.`
 
-**Answer:** Replace this text with your answer.
+**Answer:** /[A-Z][0-9]{8}/gi
 
 #### Question 4a
 
